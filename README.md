@@ -1,1 +1,1 @@
-Slot Machine Game - Python Project (Jun’24)
+Slot Machine Game - Python (Jun’24)
